@@ -52,7 +52,7 @@ O projeto é dividido em scripts que representam "módulos" de comportamento:
 
 ## 🏁 Como Executar
 
-1.  Clone este repositório: `git clone [URL-DO-SEU-REPOSITÓRIO]`
+1.  Clone este repositório: `git clone https://github.com/JogosIFPRTB/2dTopDownShooter.git`
 2.  Abra o projeto com o **Unity Hub** (use a versão do Unity especificada acima).
 3.  A Unity pode pedir para reiniciar para habilitar o **Novo Input System**. Aceite.
 4.  Abra a cena principal em `Assets/Scenes/`.
